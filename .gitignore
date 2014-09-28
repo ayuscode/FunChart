@@ -1,0 +1,10 @@
+*.dll
+bin/Debug/FSharp.Core.xml
+bin/Debug/FunChart.exe
+bin/Debug/FunChart.exe.config
+bin/Debug/FunChart.pdb
+bin/Debug/FunChart.XML
+obj/Debug/FunChart.exe
+obj/Debug/FunChart.fsproj.FileListAbsolute.txt
+obj/Debug/FunChart.pdb
+*.suo
